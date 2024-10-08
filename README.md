@@ -8,6 +8,7 @@ Product Section: Display of product images for various categories such as Ethnic
 Home Banner: A section with banner images to showcase promotional offers.
 
 **#Footer**
+
 Simple footer with copyright information.
 
 #**Technologies Used**
