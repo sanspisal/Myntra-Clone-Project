@@ -6,7 +6,9 @@ This is a responsive clone of the popular Indian e-commerce website Myntra. The 
 Responsive Header: Includes a sticky navigation bar with a logo, category links (Men, Women, Kids, Home & Living, Beauty, Studio), a search bar, and options like Profile, Wishlist, and Bag.
 Product Section: Display of product images for various categories such as Ethnic, Casual, Grooming, Men's, Women's, Western, and Sports fashion.
 Home Banner: A section with banner images to showcase promotional offers.
-Footer: Simple footer with copyright information.
+
+**#Footer**
+Simple footer with copyright information.
 
 #**Technologies Used**
 
